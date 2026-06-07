@@ -1,0 +1,11 @@
+nome = 'Tarcisio Lima Silva'
+maisculo = (nome.upper())
+minusculo = (nome.lower())
+dividido = (nome.split())
+primeironome = (len(dividido [0]))
+nomejunto = ''.join(dividido)
+print (maisculo)
+print (minusculo)
+print (dividido)
+print (primeironome)
+print (len(nomejunto))
